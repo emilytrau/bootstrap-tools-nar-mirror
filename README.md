@@ -1,3 +1,5 @@
+# Archived. This set of tools is no longer needed as of https://github.com/NixOS/nixpkgs/pull/238357.
+
 # bootstrap-tools-nar-mirror
 
 NAR archive mirror for bootstrap source packages.
